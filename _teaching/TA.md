@@ -8,7 +8,7 @@ date: September 2016 - June 2021
 location: "Portland, Oregon"
 ---
 
-SECourses: Intro to Database Management System & Discrete Structures
+Courses:
 Artificial Intelligence
 Algorithm Design & Analysin
 Algorithms & Complexity
