@@ -9,12 +9,12 @@ location: "Portland, Oregon"
 ---
 
 Courses:
-Artificial Intelligence
-Algorithm Design & Analysin
-Algorithms & Complexity
-Computational Structures
-Multimedia Systems
-Intro to Database Management
+Artificial Intelligence,
+Algorithm Design & Analysis,
+Algorithms & Complexity,
+Computational Structures,
+Multimedia Systems,
+Intro to Database Management,
 Discrete Structures
 
 
